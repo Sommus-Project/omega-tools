@@ -7,7 +7,7 @@ The Omega tools repo is a set of tools used in the development of an Omega based
 To use Omega tools you first must install them as a dev-dependency in your project:
 
 ```bash
-npm install --save-dev git+https://github.com/IMAT-Solutions/omega-tools.git
+npm install --save-dev git+https://github.com/Sommus-Project/omega-tools.git
 ```
 
 Once there you can run omega from the command line:

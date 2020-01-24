@@ -59,13 +59,13 @@ To be able to generate documentation from your API file you need to include a se
 To use the Omega tool you need to install the `Omega` repo. You can do this globally:
 
 ```bask
-npm install -g git+https://github.com/IMAT-Solutions/omega-tools.git
+npm install -g git+https://github.com/Sommus-Project/omega-tools.git
 ```
 
 Or you can install `Omega` in your project:
 
 ```
-npm install --save-dev git+https://github.com/IMAT-Solutions/omega-tools.git
+npm install --save-dev git+https://github.com/Sommus-Project/omega-tools.git
 ```
 
 ### How to Run:
