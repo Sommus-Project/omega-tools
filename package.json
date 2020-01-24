@@ -42,8 +42,8 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "chai": "^4.2.0",
     "eslint": "^6.2.2",
-    "mocha": "^6.1.4",
-    "nyc": "^14.1.1",
+    "mocha": "^7.0.0",
+    "nyc": "^15.0.0",
     "proxyquire": "^2.1.0"
   }
 }
