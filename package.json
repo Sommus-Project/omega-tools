@@ -25,7 +25,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@imat/omegalib": "git+https://github.com/IMAT-Solutions/omega-lib.git#v2.0.5",
+    "@imat/omegalib": "git+https://github.com/IMAT-Solutions/omega-lib.git",
     "acorn": "^7.0.0",
     "debug": "^4.1.1",
     "keypress": "^0.2.1",
