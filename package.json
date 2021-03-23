@@ -1,6 +1,6 @@
 {
   "name": "@sp/omega-tools",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Tools for applications that use the Omega Project.",
   "main": "index.js",
   "bin": {
@@ -23,7 +23,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@sp/omega-lib": "git+https://github.com/Sommus-Project/omega-lib.git#v0.9.0",
+    "@sp/omega-lib": "git+https://github.com/Sommus-Project/omega-lib.git#v0.9.1",
     "acorn": "^8.0.5",
     "debug": "^4.3.1",
     "keypress": "^0.2.1",
