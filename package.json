@@ -1,6 +1,6 @@
 {
   "name": "@sp/omega-tools",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Tools for applications that use the Omega Project.",
   "main": "index.js",
   "bin": {
